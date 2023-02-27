@@ -22,4 +22,4 @@ I've gotten better at parsing is documentation. 90% of the time your answer is i
 was strengthened significantly.
 
 By segmenting it into functions as much as needed the code can be reused quite easily. I also am a stickler when it comes to indenting and spacing out code so that is
-easily digestable
+easily digestible
